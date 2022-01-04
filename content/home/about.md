@@ -1,21 +1,12 @@
 ---
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: about
-
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
+widget_id: welcome
 headless: true
-
-# Order that this section appears on the page.
 weight: 20
-
-title: Biography
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
+title: Welcome!
+active: true
 author: admin
 ---
+Hi! I'm Calvin, a physicist currently studying at the University of Cambridge.
+
+This website aims to serve two purposes. Primarily, it's to provide a platform for me to discuss current projects and ideas - in particular, those which I lack the time to follow-up alongside my degree. Secondly, although this isn't its primary purpose, it *will* probably be used at some point in the future as a place for me to show-off and look fancy for a CV. Because, yes, I'm naïve enough to believe that a default webpage has any hope of looking fancy.
